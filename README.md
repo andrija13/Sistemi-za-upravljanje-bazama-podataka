@@ -8,4 +8,6 @@ Obrađene teme:
 
 2. Backup/Restore kod MSSQL baze podataka
 
+3. Cloud baze podataka i DBaaS rešenja - CloudSQL
+
 Andrija Milosavljević 1481
